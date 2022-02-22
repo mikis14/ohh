@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<h2>My Rutine List</h2>
+
+<dl>
+  <dt style="background-color:teal;">Music school</dt>
+  <dd>- Ritmik</dd>
+  <dd>- instrument</dd>
+  <dd>- solfadzo</dd>
+  <dt>Dnce</dt>
+  <dd>- Wednesday</dd>
+  <dd>- Thurstday</dd>
+  <dd>- Tuesday</dd>
+</dl>
+
+</body>
+</html>
